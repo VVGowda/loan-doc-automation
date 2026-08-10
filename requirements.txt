@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+pdfplumber
+pytesseract
+pillow
+python-multipart
+streamlit
+anthropic
+python-dotenv
